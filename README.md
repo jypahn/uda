@@ -1,6 +1,7 @@
 # uda
 • 이용자가 사용하지 않은 물품을 게시글에 올려 교환이나 나눔을 할 수 있도록 도와주는 앱<br/>
-• 2023. 8. 15. 플레이스토어 출시  https://play.google.com/store/apps/details?id=com.airro.unada
+• 2023. 8. 15. 플레이스토어 출시  https://play.google.com/store/apps/details?id=com.airro.unada<br/>
+• 개인 사이드 프로젝트로 실제 스토어에 앱을 등록해보고자 하여 프로젝트 진행함
 <br/>
 <br/>
 **개발환경**<br/>
